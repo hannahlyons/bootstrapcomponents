@@ -1,0 +1,80 @@
+.HomePageHeading {
+    text-align: center;
+    font-size: 50px;
+    color:powderblue;
+}
+#HomePage {
+    background-color: rosybrown;
+    color: powderblue;
+}
+#ThePowerBook100 {
+    background-color: rgba(236, 218, 53, 0.904);
+    color: brown;
+    text-align: center;
+}
+#TheBlueandWhiteG3 {
+    background-color: aquamarine;
+    color: peru;
+    text-align: center;
+}
+#TheFirstIMac {
+    background-color: palevioletred;
+    color: teal;
+    text-align: center;
+}
+#MacBookPro {
+    background-color: lightcoral;
+    color: darkcyan;
+    text-align: center;
+}
+#MacBookAir {
+    background-color: olive;
+    color: peachpuff;
+    text-align: center;
+}
+
+li {
+    color: rgb(119, 196, 206);
+}
+.HeadingPowerBook100 {
+     text-align: center;
+    font-size: 48px;
+    color:cornflowerblue;
+}
+.TheFirstIMacHeading {
+    text-align: center;
+    font-size: 48px;
+    color:silver;
+}
+.BlueHeading{
+    text-align: center;
+    font-size: 48px;
+    color:lightpink;
+}
+.ProHeading {
+    text-align: center;
+    font-size: 48px;
+    color:royalblue;
+}
+.AirHeading {
+    text-align: center;
+    font-size: 48px;
+    color:wheat;
+}
+ {
+    text-align: center;
+}
+table {
+    background-color: rgb(147, 216, 147);
+    margin: auto;
+}
+td {
+    color: aqua;
+}
+.container-fluid{
+    background-color: rgba(175, 238, 238, 0.623);
+}
+ .carousel-inner{
+    width:100%;
+    height:50%;
+ }
