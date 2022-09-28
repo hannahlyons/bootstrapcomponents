@@ -1,11 +1,12 @@
 .HomePageHeading {
     text-align: center;
     font-size: 50px;
-    color:powderblue;
+    color:rgba(192, 236, 126, 0.833);
 }
 #HomePage {
     background-color: rosybrown;
-    color: powderblue;
+    color: yellow;
+    size: 50px;
 }
 #ThePowerBook100 {
     background-color: rgba(236, 218, 53, 0.904);
@@ -33,9 +34,7 @@
     text-align: center;
 }
 
-li {
-    color: rgb(119, 196, 206);
-}
+
 .HeadingPowerBook100 {
      text-align: center;
     font-size: 48px;
