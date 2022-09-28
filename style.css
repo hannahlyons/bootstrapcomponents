@@ -66,6 +66,7 @@
 table {
     background-color: rgb(147, 216, 147);
     margin: auto;
+    border:;
 }
 td {
     color: aqua;
